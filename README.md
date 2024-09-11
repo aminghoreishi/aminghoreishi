@@ -13,8 +13,8 @@
 
 <div>
   <h3>Status:<h3>
-  <img src='https://github-readme-stats.vercel.app/api?username=aminghoreishi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&width=200px'>
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=aminghoreishi&theme=vue-dark&hide_border=true'>
+<!--   <img src='https://github-readme-stats.vercel.app/api?username=aminghoreishi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&width=200px'> -->
+<!--   <img src='https://github-readme-streak-stats.herokuapp.com/?user=aminghoreishi&theme=vue-dark&hide_border=true'> -->
 <!--   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=aminghoreishi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact'> -->
  
 </div>
